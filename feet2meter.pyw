@@ -13,7 +13,7 @@ def convert():                                                                  
     meter = value * 0.3048
     mt_value.set("%.4f" % meter)
 
-def clear():                                                                                #definin clear function
+def clear():                                                                                #defining clear function
     ft_value.set("")
     mt_value.set("")
 
